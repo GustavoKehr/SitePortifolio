@@ -98,7 +98,6 @@ main {
     min-width: 280px;
     padding: 20px;
     box-shadow: 5px 5px 10px 7px rgba(0, 0, 0, 0.178);
-    margin-bottom: 15px;
 }
 
 main > main#main2 {
