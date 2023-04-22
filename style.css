@@ -98,7 +98,8 @@ main {
     min-width: 280px;
     padding: 20px;
     box-shadow: 5px 5px 10px 7px rgba(0, 0, 0, 0.178);
-    height: 1700px;
+    max-height: 1700px;
+    min-height: 770px;
     margin-bottom: 15px;
 }
 
@@ -106,10 +107,11 @@ main > main#main2 {
     background-color: var(--cor03);
     max-width: 1050px;
     min-width: 280px;
+    max-height: 1660px;
+    min-height: 600px;
     margin: auto;
     border-radius: 10px 10px 10px 10px;
     box-shadow: 5px 5px 10px 1px rgba(0, 0, 0, 0.356);
-    height: 1660px;
 }
 
 main > section > article  {
